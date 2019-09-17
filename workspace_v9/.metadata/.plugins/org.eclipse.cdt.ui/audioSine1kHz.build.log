@@ -1,0 +1,20 @@
+
+**** Build of configuration Debug for project audioSine1kHz ****
+
+"C:\\ti\\ccs910\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+Building file: "../main_nortos.c"
+Invoking: ARM Compiler
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=vfplib -me --include_path="C:/Users/micha/workspace_v9/audioSine1kHz" --include_path="C:/ti/simplelink_cc32xx_sdk_3_20_00_06/source" --include_path="C:/ti/simplelink_cc32xx_sdk_3_20_00_06/kernel/nortos" --include_path="C:/ti/simplelink_cc32xx_sdk_3_20_00_06/kernel/nortos/posix" --include_path="C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include" --define=NORTOS_SUPPORT -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on --preproc_with_compile --preproc_dependency="main_nortos.d_raw"  "../main_nortos.c"
+Finished building: "../main_nortos.c"
+ 
+Building target: "audioSine1kHz.out"
+Invoking: ARM Linker
+"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M4 --code_state=16 --float_support=vfplib -me --define=NORTOS_SUPPORT -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on -z -m"audioSine1kHz.map" -i"C:/ti/simplelink_cc32xx_sdk_3_20_00_06/source" -i"C:/ti/simplelink_cc32xx_sdk_3_20_00_06/kernel/nortos" -i"C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/lib" --diag_suppress=10063 --diag_wrap=off --display_error_number --warn_sections --xml_link_info="audioSine1kHz_linkInfo.xml" --entry_point=resetISR --rom_model -o "audioSine1kHz.out" "./CC3220S_LAUNCHXL.obj" "./config.obj" "./main_nortos.obj" "../CC3220S_LAUNCHXL_NoRTOS.cmd"  -l"ti/display/lib/display.aem4" -l"ti/grlib/lib/ccs/m4/grlib.a" -l"third_party/spiffs/lib/ccs/m4/spiffs.a" -l"ti/drivers/lib/drivers_cc32xx.aem4" -l"third_party/fatfs/lib/ccs/m4/fatfs.a" -l"lib/nortos_cc32xx.aem4" -l"ti/devices/cc32xx/driverlib/ccs/Release/driverlib.a" -llibc.a 
+<Linking>
+Finished building target: "audioSine1kHz.out"
+ 
+C:/ti/ccs910/ccs/utils/tiobj2bin/tiobj2bin audioSine1kHz.out audioSine1kHz.bin C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armofd C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armhex C:/ti/ccs910/ccs/utils/tiobj2bin/mkhex4bin
+ 
+
+**** Build Finished ****

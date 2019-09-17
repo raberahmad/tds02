@@ -1,0 +1,65 @@
+# FIXED
+
+config.obj: ../config.c
+config.obj: C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/stdint.h
+config.obj: C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/_stdint40.h
+config.obj: C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/sys/stdint.h
+config.obj: C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/sys/cdefs.h
+config.obj: C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/sys/_types.h
+config.obj: C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/machine/_types.h
+config.obj: C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/machine/_stdint.h
+config.obj: C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/sys/_stdint.h
+config.obj: C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/stddef.h
+config.obj: C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/_ti_config.h
+config.obj: C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/linkage.h
+config.obj: C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/stdbool.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/inc/hw_common_reg.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/inc/hw_i2c.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/inc/hw_ints.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/inc/hw_memmap.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/inc/hw_types.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/rom.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/rom_map.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/rom_patch.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/i2c.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/i2s.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/pin.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/prcm.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/utils.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/drivers/I2C.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/drivers/power/PowerCC32XX.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/drivers/utils/List.h
+config.obj: D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/drivers/Power.h
+config.obj: ../config.h
+
+../config.c: 
+C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/stdint.h: 
+C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/_stdint40.h: 
+C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/sys/stdint.h: 
+C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/sys/cdefs.h: 
+C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/sys/_types.h: 
+C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/machine/_types.h: 
+C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/machine/_stdint.h: 
+C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/sys/_stdint.h: 
+C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/stddef.h: 
+C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/_ti_config.h: 
+C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/linkage.h: 
+C:/ti/ccs910/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/stdbool.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/inc/hw_common_reg.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/inc/hw_i2c.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/inc/hw_ints.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/inc/hw_memmap.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/inc/hw_types.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/rom.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/rom_map.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/rom_patch.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/i2c.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/i2s.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/pin.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/prcm.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/devices/cc32xx/driverlib/utils.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/drivers/I2C.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/drivers/power/PowerCC32XX.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/drivers/utils/List.h: 
+D:/Hogeschool//\ Rotterdam/Code//\ composer/simplelink_cc32xx_sdk_3_20_00_06/source/ti/drivers/Power.h: 
+../config.h: 
